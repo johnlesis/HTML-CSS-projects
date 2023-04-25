@@ -1,0 +1,40 @@
+.header
+{
+  border-style: double;
+  text-align: center; 
+  background-color: rgb(184, 241, 222);
+}
+.webtitle
+{
+    text-align: center;
+    color:grey;
+}
+.email
+{
+    text-align: center;
+    border-style: ridge;
+    background-color: aliceblue;
+}
+.menu
+{
+    text-align: center;
+    border-style: dashed;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+.portfolio
+{
+    text-align:center;
+    font-size: xx-large;
+}
+.container
+{
+    text-align: center;
+    background-color: rgb(226, 226, 226);
+    font-size: larger;
+}
+.image
+{
+   display: block;
+    justify-content: center; 
+}
